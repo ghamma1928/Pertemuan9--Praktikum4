@@ -128,7 +128,22 @@ for isi in baris:
 print(x)
 ```
 
+![Screenshot (101)](https://user-images.githubusercontent.com/115474950/202728109-4f27434d-d147-48e5-aa8b-77017d9092e1.png)
+
+![Screenshot (102)](https://user-images.githubusercontent.com/115474950/202728139-c5714570-b3ce-421d-8a15-b459eb6b0753.png)
+
 - Berikut hasil run syntax yang saya buat untuk memenuhi praktikum module 4 :
   
+  ![Screenshot (100)](https://user-images.githubusercontent.com/115474950/202728674-700302dd-1192-4f98-903d-e4286fbd9749.png)
+
+- Flowchart program diatas adalah sebagai berikut :
+  
+  ![image](https://user-images.githubusercontent.com/115474950/202729421-4cbc92f8-2f77-4fb7-ac0d-13bca462849c.png)
+
+# Berikut langkah-langkah "Tugas Pertemuan 9 Module 4" yang bisa saya jelaskan/jabarkan
+
+# Sekian Terima Kasih
+
+# Ghamma Pramana Putra Setyadin
 
 
